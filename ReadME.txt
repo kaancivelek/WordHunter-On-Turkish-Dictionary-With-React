@@ -2,7 +2,7 @@
 
 ### About the Project
 This project is an entertaining word generation and finding game developed using React. The game generates words using random letters and tries to find meaningful Turkish words from these generated combinations.
-
+#TO CHANGE LANGUAGE OF PROJECT TURKISH TO ENGLISH COPY AND PASTE SinifUygulamasiIki/src to SinifUygulamasiIki/kelimeturetbul/src
 ### How It Works
 1. When the game starts, the system generates 10 random 9-letter words using Turkish vowels and consonants.
 2. For each generated word:
